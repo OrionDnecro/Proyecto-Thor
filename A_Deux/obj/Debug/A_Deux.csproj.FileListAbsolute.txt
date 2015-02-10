@@ -1,0 +1,11 @@
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\bin\Debug\A_Deux.exe.config
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\bin\Debug\A_Deux.exe
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\bin\Debug\A_Deux.pdb
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.csprojResolveAssemblyReference.cache
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.Properties.Resources.resources
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.csproj.GenerateResource.Cache
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.exe
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.pdb
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.Estado.resources
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.Menu.resources
+c:\users\nexus\documents\visual studio 2013\Projects\A_Deux\A_Deux\obj\Debug\A_Deux.Usuario.resources
